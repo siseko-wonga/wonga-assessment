@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "idsBPqSNW8Bqh7PSWJnrBlWf/QdUBNEbSal3E2V0hueoLtW3lph9V0zJg/5neRmCkcecS0kuLqUs0Y/US/biHg==",
+  "success": true,
+  "projectFilePath": "/Users/siseko/Documents/Producer/wonga-assessment/Send/Send.csproj",
+  "expectedPackageFiles": [
+    "/Users/siseko/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/Users/siseko/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/siseko/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
